@@ -1,4 +1,4 @@
-STAMP: 20241106-073432
+STAMP: 20241106-081639
 ERROR: file codeforces.id is absent
 ERROR: file .gitignore is absent
 ERROR: file CMakeLists.txt is absent
@@ -13,3 +13,5 @@ ERROR: file prj.test/complex_test.cpp is absent
 ERROR: file prj.test/rational_doctest.cpp is absent
 ERROR: CMake generator failed
 OK: folder prj.codeforces structure is correct
+ERROR: lab complex - test build failed
+ERROR: lab rational - test build failed
