@@ -11,7 +11,9 @@ struct Complex {
 	Complex();
 	Complex(double real);
 	Complex(double real, double imag);
+	~Complex() = default;
 	void get_data(double& re, double& im);
+	bool operator == (const Complex& val1);
 	const Complex& add(const Complex val1, const Complex val2);
 	const Complex& add(const Complex& val1, const double val2);
 	const Complex& subtract(const Complex val1, const Complex val2);
