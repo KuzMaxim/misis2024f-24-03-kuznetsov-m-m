@@ -1,3 +1,6 @@
+#include<iostream>
+#include <cmath>
+
 int main() {
   int t = 0;
   std::cin >> t;
