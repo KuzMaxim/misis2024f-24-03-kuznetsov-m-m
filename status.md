@@ -1,4 +1,4 @@
-STAMP: 20241123-220649
+STAMP: 20241125-095209
 ERROR: codeforces id is wrong
 ERROR: file prj.lab/arrayd/CMakeLists.txt is absent
 ERROR: file prj.lab/arrayd/arrayd.hpp is absent
