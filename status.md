@@ -1,4 +1,4 @@
-STAMP: 20241210-065054
+STAMP: 20241211-203634
 ERROR: codeforces id is wrong
 ERROR: file prj.test/arrayd_doctest.cpp is absent
 ERROR: file prj.test/arrayt_doctest.cpp is absent
